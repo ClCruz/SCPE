@@ -1,2 +1,3 @@
 # SCPE
- Sistema de Controle de Processos de Entretenimento
+ Sistema de Controle de Processos de Entretenimento - SCPE
+ 
